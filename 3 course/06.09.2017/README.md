@@ -1,5 +1,7 @@
 ## 06.09.2017
 
+[Демо с лекции](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M1.%20Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework/Samples/VS)
+
 ### Читать:  
 - (начальный уровень)
   - [Введение в C#. Язык C# и платформа .NET](https://metanit.com/sharp/tutorial/1.1.php)
