@@ -1,7 +1,7 @@
 ## 06.09.2017
 
-[Демо с с примером модельного тестирования](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M1.%20Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework/Samples/VS)
-[Пример с практики]()
+- [Демо с с примером модельного тестирования](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M1.%20Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework/Samples/VS)
+- [Пример с практики]()
 
 ### Читать:  
 - (начальный уровень)
@@ -13,4 +13,4 @@
   - [.NET-Framework-modules/M5. C# Unit Testing](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20C%23%20Unit%20Testing)
 
 ### Задачи: 
-Для задач реализовать юнит тесты.
+Для [задач](https://github.com/AnzhelikaKravchuk/2017-2018.MMF.BSU/tree/master/3%20course/06.09.2017)  реализовать юнит тесты.
