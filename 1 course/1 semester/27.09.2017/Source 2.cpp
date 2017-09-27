@@ -41,23 +41,23 @@ int main()
 
 		cout << "1 + 2 + 3 + ... + " << n << " = " << sum << endl;
 		
-		int j = 1;
+		for (int j = 1; j <= n ; j++)
+		{
+			sum += j;
+		}
+		//vs
+		/*int j = 1;
 		for ( ; ; )
 		{
 			if (j <= n) break;
 			sum += j;
 			j++;
-		}
-		if (j == 2)
-		{
+		}*/
 
-		}
-		cout << j << endl;
 		cout << "1 + 2 + 3 + ... + " << n << " = " << sum << endl;
-
+		//about increament forms
 		//int j = 1, k = 1;
 		//int l = ++j;
-
 		//int m = k++;
 
 		cout << "If continue, press y or Y";
