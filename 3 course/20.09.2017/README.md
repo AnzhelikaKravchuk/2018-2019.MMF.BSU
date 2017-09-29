@@ -1,4 +1,4 @@
-## 06.09.2017
+## 20.09.2017
 
 - [Демо с примером модельного тестирования](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M1.%20Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework/Samples/VS)
 - [Пример с практики](https://github.com/AnzhelikaKravchuk/2017-2018.MMF.BSU/blob/master/3%20course/20.09.2017/20.09.17.zip)
