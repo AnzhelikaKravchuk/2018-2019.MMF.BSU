@@ -1,4 +1,12 @@
-## Задание 1 (deadline 24.00 12.10.12)
+
+
+Задание выполняется самостоятельно и сдается преподавателю в форме защиты устно во время занятия.
+
+## Лабораторная работа 1 
+
+Последний срок сохранения изменений на github.com (BitBucket): до 24.00, 12.10.17.
+
+Срок защиты лабораторной работы: 13.10.17.
 
 ### Теория:  
 [Generics and Collections](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M10.%20Generics%20and%20Collections)
