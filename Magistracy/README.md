@@ -23,7 +23,7 @@
 
 *Последний срок сохранения изменений на github.com: до 24.00, 19.10.12.*
 
-*Срок защиты лабораторной работы: 13.10.17.*
+*Срок защиты лабораторной работы: 20.10.17.*
 
 ### Теория:  
 - [Introduction to Language Integrated Query (LINQ)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M11.%20Introduction%20to%20Language%20Integrated%20Query%20(LINQ))
