@@ -10,7 +10,7 @@
 - Логика решения задачи помещается в проект типа Class Library.
 - Тестирование решенной задачи выполняется с использованием тестовых фреймворков Microsoft Unit Testing Framework или NUnit.
 - Выполненные задания выкладываются на github не позднее указанного срока и сдаются в форме устной защиты во время занятия. 
-- Заполнить столбец github здесь https://docs.google.com/spreadsheets/d/1nmerrX9j3FeFCDrJFCGfNzHiWhxfcxtJqlpaBngvjbY/edit#gid=0).
+- Выслать на электронный адрес anzhelika.kravchuk@gmail.com письмо с указанием своего github-acc.
 
 ## Лабораторная работа 1 
 
