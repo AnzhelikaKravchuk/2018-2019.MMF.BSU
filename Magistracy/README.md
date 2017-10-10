@@ -12,7 +12,7 @@
 - Выполненные задания выкладываются на github не позднее указанного срока и сдаются в форме устной защиты во время занятия. 
 - Выслать на электронный адрес anzhelika.kravchuk@gmail.com письмо с указанием своего github-acc.
 
-### [Полезная ветка](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)
+### [EPAM RD Training "DEVELOPING ASP.NET MVC WEB APPLICATIONS" Repository (C# and .NET Framework Basics part) by .NET Lab.](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)
 
 ## Лабораторная работа 1 
 
