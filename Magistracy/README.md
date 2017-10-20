@@ -59,6 +59,16 @@
 
 ## Лабораторная работа 4
 
+*Последний срок сохранения изменений на github.com: 24.00, 26.10.12.*
+
+*Срок защиты лабораторной работы: 27.10.17.*
+
+### Теория:  
+https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies
+
+### Задача: 
+https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies
+
 ## Лабораторная работа 5
 
 ## Лабораторная работа 6
