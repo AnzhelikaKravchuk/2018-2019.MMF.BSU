@@ -1,5 +1,0 @@
-﻿  stdafx.cpp
-  IntegerExtentionTests.cpp
-     Creating library C:\Users\MIB\Desktop\07.02.2018\Debug\IntegerLibraryTests.lib and object C:\Users\MIB\Desktop\07.02.2018\Debug\IntegerLibraryTests.exp
-IntegerExtentionTests.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) double __cdecl IntegerExtension::sinTaylor(double,double)" (__imp_?sinTaylor@IntegerExtension@@YANNN@Z) referenced in function "public: void __thiscall IntegerLibraryTests::IntegerExtensionTests::sinTylorTest_1(void)" (?sinTylorTest_1@IntegerExtensionTests@IntegerLibraryTests@@QAEXXZ)
-C:\Users\MIB\Desktop\07.02.2018\Debug\IntegerLibraryTests.dll : fatal error LNK1120: 1 unresolved externals
