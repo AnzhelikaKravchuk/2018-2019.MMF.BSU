@@ -1,6 +1,9 @@
 ## 20.02.2018
 
-### Установить [LINQPad](http://www.linqpad.net/)
+- Установить [LINQPad](http://www.linqpad.net/).
+- Пример [здесь](https://github.com/AnzhelikaKravchuk/2017-2018.MMF.BSU/blob/master/C%23%20for%20begginer's/22.02.2018/22.02.2018.7z).
+- Быстрое и лаконичное знакомство [здесь](https://github.com/AnzhelikaKravchuk/2017-2018.MMF.BSU/blob/master/C%23%20for%20begginer's/%D0%AF%D0%B7%D1%8B%D0%BA%20CSharp%20%D0%B8%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B%20.NET%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8_1.pdf).
+- Список хороших книг [здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules).
 
 ###  Задачи
 - Реализовать метод FilterNumbers, который принимает список целых чисел и фильтрует его, таким образом, чтобы на выходе остались только числа, содержащие заданную цифру. Например, для цифры 7, FilterDigit (7,1,2,3,4,5,6,7,68,69,70, 15,17) -> {7, 70, 17}. Разработать модульные тесты (NUnit или MS Unit Test) для тестирования метода. 
