@@ -1,4 +1,4 @@
-## 20.02.2018
+## 22.02.2018
 
 - Установить [LINQPad](http://www.linqpad.net/).
 - Сегодняшний пример с новыми тестами [здесь](https://github.com/AnzhelikaKravchuk/2017-2018.MMF.BSU/blob/master/C%23%20for%20begginer's/22.02.2018/22.02.2018.7z).
