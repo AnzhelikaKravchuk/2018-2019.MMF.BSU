@@ -10,7 +10,7 @@
   - *практика с 03.10.18 по 15.12.18.*
   - *зачет ##.##.18.*
 
-![](https://github.com/AnzhelikaKravchuk/2018-2019.MMF.BSU/tree/master/3%20course/Pictures/1. Введение в C#.png)
+![](https://github.com/AnzhelikaKravchuk/2018-2019.MMF.BSU/blob/master/3%20course/Pictures/1.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20C%23.png)
 
 
 ### Форма отчетности по спецкурсу: выполнение лабораторных работ.
