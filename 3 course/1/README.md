@@ -7,7 +7,7 @@
       class HelloWorld   
       {   
 	        static void Main() => System.Console.WriteLine(“Hello, world!”);  
-      }   
+      }  
       
     - C Dotnet CLI
     - C Visual Studio 2017
