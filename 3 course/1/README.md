@@ -9,7 +9,7 @@
 	           static void Main() => System.Console.WriteLine("Hello, world!");
               }        
       
-    - C Dotnet CLI
+    - C Dotnet CLI ([Команда dotnet](https://docs.microsoft.com/ru-ru/dotnet/core/tools/dotnet?tabs=netcore21https://docs.microsoft.com/ru-ru/dotnet/core/tools/dotnet?tabs=netcore21))
     
               mkdir ./HelloWorld
 	      cd ./HelloWorld
