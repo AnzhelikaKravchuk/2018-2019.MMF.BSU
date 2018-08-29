@@ -4,10 +4,12 @@
   - Hello, World! в C#
     - Создание, редактирование, компиляция и выполнение исходного кода на C#
     
-      class HelloWorld   
-      {   
-	        static void Main() => System.Console.WriteLine(“Hello, world!”);  
-      }  
+    
+             class HelloWorld
+	     {
+                static void Main() => System.Console.WriteLine("Hello? world!");
+             }
+            
       
     - C Dotnet CLI
     - C Visual Studio 2017
