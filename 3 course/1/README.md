@@ -16,7 +16,7 @@
 	      dotnet new console
 	      dotnet run
 
-    - C Visual Studio 2017
+    - C Visual Studio 2017 ([Скачайте Visual Studio](https://visualstudio.microsoft.com/ru/downloads/?rr=https%3A%2F%2Fwww.google.by%2F))
     - Создание Solution и Project
     - Компиляция и выполнение
   - Основы синтаксиса C#
