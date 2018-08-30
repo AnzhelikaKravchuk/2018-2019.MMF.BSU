@@ -11,7 +11,8 @@
       
     - C Dotnet CLI ([Команда dotnet](https://docs.microsoft.com/ru-ru/dotnet/core/tools/dotnet?tabs=netcore21https://docs.microsoft.com/ru-ru/dotnet/core/tools/dotnet?tabs=netcore21))
     
-              mkdir ./HelloWorld
+              
+	      mkdir ./HelloWorld
 	      cd ./HelloWorld
 	      dotnet new console
 	      dotnet run
