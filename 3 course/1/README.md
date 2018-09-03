@@ -57,7 +57,8 @@
 	      
 	      Common options:
 	      ===============
-	      	-v|--verbosity        Set the verbosity level of the command. Allowed values are q[uiet], m[inimal], n[ormal], d[etailed].		  -h|--help             Show help.
+	      	-v|--verbosity        Set the verbosity level of the command. Allowed values are q[uiet], m[inimal], n[ormal], d[etailed].
+		-h|--help             Show help.
 
 	      Run 'dotnet COMMAND --help' for more information on a command.
 	      
