@@ -13,7 +13,7 @@
 	           static void Main() => System.Console.WriteLine("Hello, world!");
               }        
       
-    - C Dotnet CLI ([Команда dotnet](https://docs.microsoft.com/ru-ru/dotnet/core/tools/dotnet?tabs=netcore21https://docs.microsoft.com/ru-ru/dotnet/core/tools/dotnet?tabs=netcore21)) ([Кроссплатформенный интерфес уомандной строки PowerShell](https://github.com/PowerShell/PowerShell))
+    - C Dotnet CLI ([Команда dotnet](https://docs.microsoft.com/ru-ru/dotnet/core/tools/dotnet?tabs=netcore21https://docs.microsoft.com/ru-ru/dotnet/core/tools/dotnet?tabs=netcore21)) ([Кроссплатформенный интерфейс командной строки PowerShell](https://github.com/PowerShell/PowerShell))
     
     
               Example:
@@ -21,9 +21,12 @@
 	      	cd ./HelloWorld
 	      	dotnet new console
 	      	dotnet run
-	      
+		
+	      dotnet command
 	      ---------------------------------------------------------------------------
+	      
 	      dotnet -help
+	      ============
 	      
 	      .NET Command Line Tools (2.1.202)
 	      
@@ -34,84 +37,42 @@
 	      		The path to an application .dll file to execute.
 	      
 	      SDK commands:
-	      new              Initialize .NET projects.
-	      restore          Restore dependencies specified in the .NET project.
-	      run              Compiles and immediately executes a .NET project.
-	      build            Builds a .NET project.
-	      publish          Publishes a .NET project for deployment (including the runtime).
-	      test             Runs unit tests using the test runner specified in the project.
-	      pack             Creates a NuGet package.
-	      migrate          Migrates a project.json based project to a msbuild based project.
-	      clean            Clean build output(s).
-	      sln              Modify solution (SLN) files.
-	      add              Add reference to the project.
-	      remove           Remove reference from the project.
-	      list             List reference in the project.
-	      nuget            Provides additional NuGet commands.
-	      msbuild          Runs Microsoft Build Engine (MSBuild).
-	      vstest           Runs Microsoft Test Execution Command Line Tool.
+	      =============
+			new              Initialize .NET projects.
+			restore          Restore dependencies specified in the .NET project.
+			run              Compiles and immediately executes a .NET project.
+			build            Builds a .NET project.
+			publish          Publishes a .NET project for deployment (including the runtime).
+			test             Runs unit tests using the test runner specified in the project.
+			pack             Creates a NuGet package.
+			migrate          Migrates a project.json based project to a msbuild based project.
+			clean            Clean build output(s).
+			sln              Modify solution (SLN) files.
+			add              Add reference to the project.
+			remove           Remove reference from the project.
+			list             List reference in the project.
+			nuget            Provides additional NuGet commands.
+			msbuild          Runs Microsoft Build Engine (MSBuild).
+			vstest           Runs Microsoft Test Execution Command Line Tool.
 	      
 	      Common options:
-  -v|--verbosity        Set the verbosity level of the command. Allowed values are q
-ed], and diag[nostic].
-  -h|--help             Show help.
+	      ===============
+	      	-v|--verbosity        Set the verbosity level of the command. Allowed values are q[uiet], m[inimal], n[ormal], d[etailed].		  -h|--help             Show help.
 
-Run 'dotnet COMMAND --help' for more information on a command.
-
-sdk-options:
-  --version        Display .NET Core SDK version.
-  --info           Display .NET Core information.
-  -d|--diagnostics Enable diagnostic output.
-
-runtime-options:
-  --additionalprobingpath <path>    Path containing probing policy and assemblies to
-  --fx-version <version>            Version of the installed Shared Framework to use
-  --roll-forward-on-no-candidate-fx Roll forward on no candidate shared framework is
-  --additional-deps <path>          Path to additonal deps.json file.
-
-PS C:\Users\mib\desktop\test\tests> dotnet -h
-.NET Command Line Tools (2.1.202)
-Usage: dotnet [runtime-options] [path-to-application]
-Usage: dotnet [sdk-options] [command] [arguments] [command-options]
-
-path-to-application:
-  The path to an application .dll file to execute.
-
-SDK commands:
-  new              Initialize .NET projects.
-  restore          Restore dependencies specified in the .NET project.
-  run              Compiles and immediately executes a .NET project.
-  build            Builds a .NET project.
-  publish          Publishes a .NET project for deployment (including the runtime).
-  test             Runs unit tests using the test runner specified in the project.
-  pack             Creates a NuGet package.
-  migrate          Migrates a project.json based project to a msbuild based project.
-  clean            Clean build output(s).
-  sln              Modify solution (SLN) files.
-  add              Add reference to the project.
-  remove           Remove reference from the project.
-  list             List reference in the project.
-  nuget            Provides additional NuGet commands.
-  msbuild          Runs Microsoft Build Engine (MSBuild).
-  vstest           Runs Microsoft Test Execution Command Line Tool.
-
-Common options:
-  -v|--verbosity        Set the verbosity level of the command. Allowed values are q
-ed], and diag[nostic].
-  -h|--help             Show help.
-
-Run 'dotnet COMMAND --help' for more information on a command.
-
-sdk-options:
-  --version        Display .NET Core SDK version.
-  --info           Display .NET Core information.
-  -d|--diagnostics Enable diagnostic output.
-
-runtime-options:
-  --additionalprobingpath <path>    Path containing probing policy and assemblies to
-  --fx-version <version>            Version of the installed Shared Framework to use
-  --roll-forward-on-no-candidate-fx Roll forward on no candidate shared framework is
-  --additional-deps <path>          Path to additonal deps.json file.
+	      Run 'dotnet COMMAND --help' for more information on a command.
+	      
+	      sdk-options:
+	      ============
+	      	--version        Display .NET Core SDK version.
+	      	--info           Display .NET Core information.
+	     	-d|--diagnostics Enable diagnostic output.
+	      
+	      runtime-options:
+	      ================
+	      	--additionalprobingpath <path>    Path containing probing policy and assemblies to probe for.
+	      	--fx-version <version>            Version of the installed Shared Framework to use to run the application.
+	      	--roll-forward-on-no-candidate-fx Roll forward on no candidate shared framework is enabled.
+	      	--additional-deps <path>          Path to additonal deps.json file.
 
     - C Visual Studio 2017 ([Скачайте Visual Studio](https://visualstudio.microsoft.com/ru/downloads/?rr=https%3A%2F%2Fwww.google.by%2F))
     - Создание Solution и Project
