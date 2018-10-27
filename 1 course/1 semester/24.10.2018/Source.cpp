@@ -1,41 +1,52 @@
-#include<iostream>
-//#include "IntegerExtention.h"
-
-bool isPrimeNumber(int n);
-void showAllPrimeNumbersBetween(int start, int end);
+#include <iostream>
 
 using namespace std;
 
+double sin(double value, double accurancy, int& count);
+void createTable(double left, double right, double step, double eps);
+ 
 int main()
 {
-	showAllPrimeNumbersBetween(100, 1000);
+	double x = 4;
+	double accurancy = 0.01;
+	double actual = sin(x);
+	cout << actual << endl;
+	int n = 0;
+	double expected = sin(x, accurancy, n);
+	cout << n << endl;
+	cout << expected << endl;
+	cout << fabs(actual - expected) << endl;
+	double a = -1, b = 1, h = 0.1, eps = 0.0001;
+	createTable(a, b, h, eps);
 	system("pause");
 	return 0;
 }
 
-bool isPrimeNumber(int n)
+double sin(double x, double accurancy, int& n)
 {
-	if (!(n % 2))
+	double term = x;
+
+	double sinus = term;
+
+	int i = 1;
+	while (fabs(term) > accurancy)
 	{
-		return false;
+		term *= -(x * x) / (2 * i) / (2 * i + 1);
+		sinus += term;
+		i++;
+
 	}
-	for (int i = 3; i <= sqrt(n); i += 2)
-	{
-		if (!(n % i))
-		{
-			return false;
-		}
-	}
-	return true;
+
+	n = i;
+
+	return sinus;
 }
 
-void showAllPrimeNumbersBetween(int start, int end)
+void createTable(double left, double right, double step, double eps)
 {
-	for (int i = start; i <= end; i++)
+	for (double x = left; x <= right; x += step)
 	{
-		if (isPrimeNumber(i))
-		{
-			cout << i << " ";
-		}
+		int n = 0;
+		cout << x << "  " << sin(x, eps, n) << "  " << sin(x) << "  " << fabs(sin(x, eps, n) - sin(x)) << endl;
 	}
 }
