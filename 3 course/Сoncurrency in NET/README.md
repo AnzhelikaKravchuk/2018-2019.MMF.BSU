@@ -37,3 +37,5 @@
 
 ![](https://github.com/AnzhelikaKravchuk/Materials/blob/master/Pictures/Sequential%20programming%204.png)
 
+*Производство капучино быстрее, потому что два баристj могут работать параллельно с двумя кофейными станциями.*
+
