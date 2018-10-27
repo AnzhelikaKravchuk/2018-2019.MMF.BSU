@@ -1,6 +1,10 @@
 # Differences between concurrency, parallelism, and multithreading
 ***Materials from book by Riccardo Terrell. Concurrency in .NET. Modern patterns of concurrent and parallel programming. Publishing Hous "Manning", 2018***
 
+
+## Последовательное программирование выполняет одну задачу в один момент времени
+## Параллельное программирование выполняет одновременно несколько задач
+
 ## Последовательное программирование выполняет одну задачу в один момент времени
 
 ![](https://github.com/AnzhelikaKravchuk/2018-2019.MMF.BSU/blob/master/3%20course/Pictures/Sequential%20programming.png)
