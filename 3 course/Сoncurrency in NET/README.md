@@ -78,4 +78,4 @@
 
 ![](https://github.com/AnzhelikaKravchuk/Materials/blob/master/Pictures/7.png)
 
-*Взаимосвязь между синхронностью (concurrency), параллелизмом (parallelism), многопоточностью (multithreading) и многозадачностью (multitasking) в одном и многоядерном устройстве
+*Взаимосвязь между синхронностью (concurrency), параллелизмом (parallelism), многопоточностью (multithreading) и многозадачностью (multitasking) в одно- и многоядерном устройстве*
