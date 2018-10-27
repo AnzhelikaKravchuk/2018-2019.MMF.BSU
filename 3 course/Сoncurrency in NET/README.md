@@ -1,6 +1,7 @@
 # Отличие между синхронностью, параллелизмом и многопоточностю (Differences between concurrency, parallelism, and multithreading)
 
 ***Materials from book by Riccardo Terrell. Concurrency in .NET. Modern patterns of concurrent and parallel programming. Publishing Hous "Manning", 2018***
+
 ![](https://github.com/AnzhelikaKravchuk/2018-2019.MMF.BSU/blob/master/3%20course/Pictures/0.png)
 
 ## Последовательное программирование выполняет одну задачу в один момент времени
