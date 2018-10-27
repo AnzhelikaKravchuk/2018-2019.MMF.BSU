@@ -12,6 +12,7 @@
 
 ### Содержание спецкурса
 - [Введение в C#](https://github.com/AnzhelikaKravchuk/2018-2019.MMF.BSU/tree/master/3%20course/1)
+- [Сoncurrency in .NET](https://github.com/AnzhelikaKravchuk/2018-2019.MMF.BSU/tree/master/3%20course/%D0%A1oncurrency%20in%20NET)
 
 ### Форма отчетности по спецкурсу: выполнение лабораторных работ.
 
