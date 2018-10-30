@@ -6,7 +6,7 @@
 
 ## Последовательное программирование выполняет одну задачу в один момент времени
 
-![](https://github.com/AnzhelikaKravchuk/Materials/blob/master/Pictures/Sequential%20programming.png)
+![](https://github.com/AnzhelikaKravchuk/Materials/blob/master/Pictures/0.png)
 
 *Для каждого человека в очереди бариста последовательно повторяет один и тот же набор инструкций (измельчить кофе, варить кофе, подогреть молоко, вспенить молоко и объединить кофе и молоко, чтобы приготовить капучино).*
 
