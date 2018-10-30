@@ -2,7 +2,7 @@
 
 ***Materials from book by Riccardo Terrell. Concurrency in .NET. Modern patterns of concurrent and parallel programming. Publishing Hous "Manning", 2018***
 
-![](https://github.com/AnzhelikaKravchuk/Materials/blob/master/Pictures/0.png)
+![](https://github.com/AnzhelikaKravchuk/Materials/blob/master/Pictures/011.png)
 
 [Source code for "Concurrency in .NET" book Manning publisher](https://github.com/rikace/fConcBook)
 
