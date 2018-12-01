@@ -6,7 +6,7 @@
   - среда, 14.30-15.50, БГУ, аудитория 405 (практика, 3 курс 1а группа), 16.00-17.20 (практика, 3 курс 1б группа)
   - среда, 17.30-18.50, БГУ, аудитория 120 (лекции 3 курс 1, 2 группы), по первой неделе.
 
-### Форма отчетности по спецкурсу: выполнение лабораторных работ, которые представляются на зачет или экзамен, выложенными на github-e. Условия заданий [здесь](https://github.com/AnzhelikaKravchuk/2018-2019.MMF.BSU/blob/master/Magistracy/JAVA.Methods%20Programming.2015.pdf), вариант задания в соответсвии [списку](https://docs.google.com/spreadsheets/d/1ZEw-KsNtNIW1nvwFjkru8CmrGh7mL_i0QLAu2BQUkO8/edit#gid=1393345770).
+### Форма отчетности по спецкурсу: выполнение лабораторных работ, которые представляются на зачет или экзамен, выложенными на github-e, и защищаются в устной форме. Условия заданий [здесь](https://github.com/AnzhelikaKravchuk/2018-2019.MMF.BSU/blob/master/Magistracy/JAVA.Methods%20Programming.2015.pdf), вариант задания в соответсвии [списку](https://docs.google.com/spreadsheets/d/1ZEw-KsNtNIW1nvwFjkru8CmrGh7mL_i0QLAu2BQUkO8/edit#gid=1393345770).
 
 ### Требования к лабораторным работам
 - Задание выполняется c использованием в MS Visual Studio или JetBrains Rider.
