@@ -18,5 +18,5 @@
 | Пугач Евгений | [#1](https://github.com/EvgeniyPugach) |  |
 | Родионова Александра | [#1](https://github.com/sasha-rod/cpp-homework-sem-1) |  |
 | Тур Полина | [#1](https://github.com/PolinaTur/Hometask) |  |
-| Цивако Дарья| [#1](https://github.com/D-Tsivako |  |
+| Цивако Дарья| [#1](https://github.com/D-Tsivako) |  |
 | Ярук Роман| [#1](https://github.com/Jarelino/HomeWork-On-31-10-2018) |  |
