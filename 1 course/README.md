@@ -19,7 +19,7 @@
 | Родионова Александра | [#12](https://github.com/sasha-rod/cpp-homework-sem-1) | 8 |
 | Тур Полина | [#13](https://github.com/PolinaTur/Hometask) | 8 |
 | Цивако Дарья| [#14](https://github.com/D-Tsivako) | 8 |
-| Ярук Роман| [#15](https://github.com/Jarelino/HomeWork-On-31-10-2018) | 0 |
+| Ярук Роман| [#15](https://github.com/Jarelino/HomeWork-On-31-10-2018) | 8 |
 
 ## Лабораторная работа 1. Указатели и массивы. Индексация с помощью указателей. Передача массивов в функции. Динамические массивы.
 
