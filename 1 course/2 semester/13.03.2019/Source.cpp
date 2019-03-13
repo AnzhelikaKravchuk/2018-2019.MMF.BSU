@@ -27,6 +27,8 @@ int main()
 	}
 
 	cout << max(19, 20) << endl;
+	cout << max('a', 'b') << endl;
+	cout << max(12.456, 34.67) << endl;
 	system("pause");
 	return 0;
 	int countOfRows = 10;
