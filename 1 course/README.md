@@ -11,7 +11,7 @@
 | Колесников Даниил | [#4](https://github.com/DaniilKolesnikov/Daniil_Kolesnikov) | 0 | 0 |
 | Колодич Антон | [#5](https://github.com/AntonyKor/MMFInf) | 8 | 9- |
 | Кузьмич Алексей | [#6](https://github.com/kuzmichalexey/C-.-1-course-1-semestr) | 0 | 0 |
-| Литвинова Анастасия | [#7](https://github.com/AnastasiyaLitvinova/Cpp-homework-1-sem) | 8 |
+| Литвинова Анастасия | [#7](https://github.com/AnastasiyaLitvinova/Cpp-homework-1-sem) | 8 | ? |
 | Мишкин Даниил | [#8](https://github.com/DaniilMishkin) | 8 | 9- |
 | Нагорная Даная | [#9](https://github.com/NDanaya) | 8 | 9- | 
 | Полойко Борис | [#10](https://github.com/BorisPoloyko) | 8 | 10- |
