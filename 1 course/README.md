@@ -14,7 +14,7 @@
 | Литвинова Анастасия | [#7](https://github.com/AnastasiyaLitvinova/Cpp-homework-1-sem) | 8 | ? |
 | Мишкин Даниил | [#8](https://github.com/DaniilMishkin) | 8 | 9- |
 | Нагорная Даная | [#9](https://github.com/NDanaya) | 8 | 9- | 
-| Полойко Борис | [#10](https://github.com/BorisPoloyko) | 8 | 10- |
+| Полойко Борис | [#10](https://github.com/BorisPoloyko) | 8 | 10 |
 | Пугач Евгений | [#11](https://github.com/EvgeniyPugach) | 6- | 7- |
 | Родионова Александра | [#12](https://github.com/sasha-rod/cpp-homework-sem-1) | 8 | ? |
 | Тур Полина | [#13](https://github.com/PolinaTur/Hometask) | 8 | 9 | 
