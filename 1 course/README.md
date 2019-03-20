@@ -7,7 +7,7 @@
 | -------- | -------- | --------| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Антон Антон | [#1](https://github.com/anton2000anton) | 0 | 0 |
 | Галожина Юлия | [#2](https://github.com/GalozhinaYuliya) | 8 | ? |
-| Казаков Ярослав | [#3](https://github.com/EvanderLatine/MMF_1) | 8 | 8 |
+| Казаков Ярослав | [#3](https://github.com/EvanderLatine?tab=repositories) | 8 | 8 |
 | Колесников Даниил | [#4](https://github.com/DaniilKolesnikov/Daniil_Kolesnikov) | 0 | 0 |
 | Колодич Антон | [#5](https://github.com/AntonyKor/MMFInf) | 8 | 9- |
 | Кузьмич Алексей | [#6](https://github.com/kuzmichalexey/C-.-1-course-1-semestr) | 0 | 0 |
