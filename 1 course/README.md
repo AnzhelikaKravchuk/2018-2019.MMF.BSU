@@ -6,7 +6,7 @@
 | **ФИО** | **github** | **#1** | **#2** | **#3** | **#4** | **#5** | **#6** | **#7** | **#8** | **#9** | **#10** |
 | -------- | -------- | --------| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Антон Антон | [#1](https://github.com/anton2000anton) | 0 | 0 |
-| Галожина Юлия | [#2](https://github.com/GalozhinaYuliya) | 8 | ? |
+| Галожина Юлия | [#2](https://github.com/GalozhinaYuliya) | 8 | 7 |
 | Казаков Ярослав | [#3](https://github.com/EvanderLatine?tab=repositories) | 8 | 8 |
 | Колесников Даниил | [#4](https://github.com/DaniilKolesnikov/Daniil_Kolesnikov) | 0 | 0 |
 | Колодич Антон | [#5](https://github.com/AntonyKor/MMFInf) | 8 | 9- |
