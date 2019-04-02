@@ -16,7 +16,7 @@
 | Нагорная Даная | [#9](https://github.com/NDanaya) | 8 | 9- | 
 | Полойко Борис | [#10](https://github.com/BorisPoloyko) | 8 | 10 |
 | Пугач Евгений | [#11](https://github.com/EvgeniyPugach) | 6- | 7- |
-| Родионова Александра | [#12](https://github.com/sasha-rod/Homework_2_semester) | 8 | ? |
+| Родионова Александра | [#12](https://github.com/sasha-rod/Homework_2_semester) | 8 | 9 |
 | Тур Полина | [#13](https://github.com/PolinaTur/Hometask) | 8 | 9 | 
 | Цивако Дарья| [#14](https://github.com/D-Tsivako) | 8 | 10 |
 | Ярук Роман| [#15](https://github.com/Jarelino/Homeworks) | 8 | ? |
