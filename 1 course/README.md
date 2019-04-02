@@ -19,7 +19,7 @@
 | Родионова Александра | [#12](https://github.com/sasha-rod/Homework_2_semester) | 8 | 9 |
 | Тур Полина | [#13](https://github.com/PolinaTur/Hometask) | 8 | 9 | 
 | Цивако Дарья| [#14](https://github.com/D-Tsivako) | 8 | 10 |
-| Ярук Роман| [#15](https://github.com/Jarelino/Homeworks) | 8 | ? |
+| Ярук Роман| [#15](https://github.com/Jarelino/Homeworks) | 8 | 9 |
 
 ## Лабораторная работа 1. Указатели и массивы. Индексация с помощью указателей. Передача массивов в функции. Динамические массивы.
 
