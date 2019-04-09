@@ -5,21 +5,21 @@
 
 | **ФИО** | **github** | **#1** | **#2** | **КР 03.04.2019** | **#4** | **#5** | **#6** | **#7** | **#8** | **#9** | **#10** |
 | -------- | -------- | --------| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Антон Антон | [#1](https://github.com/anton2000anton) | 0 | 0 |
-| Галожина Юлия | [#2](https://github.com/GalozhinaYuliya) | 8 | 7 |
-| Казаков Ярослав | [#3](https://github.com/EvanderLatine?tab=repositories) | 8 | 8 |
-| Колесников Даниил | [#4](https://github.com/DaniilKolesnikov/Daniil_Kolesnikov) | 0 | 0 |
-| Колодич Антон | [#5](https://github.com/AntonyKor/MMFInf) | 8 | 9- |
-| Кузьмич Алексей | [#6](https://github.com/kuzmichalexey/C-.-1-course-1-semestr) | 0 | 0 |
-| Литвинова Анастасия | [#7](https://github.com/AnastasiyaLitvinova/Cpp-homework-1-sem) | 8 | ? |
-| Мишкин Даниил | [#8](https://github.com/DaniilMishkin) | 8 | 9- |
-| Нагорная Даная | [#9](https://github.com/NDanaya) | 8 | 9- | 
-| Полойко Борис | [#10](https://github.com/BorisPoloyko) | 8 | 10 |
-| Пугач Евгений | [#11](https://github.com/EvgeniyPugach) | 6- | 7- |
-| Родионова Александра | [#12](https://github.com/sasha-rod/Homework_2_semester) | 8 | 9 |
-| Тур Полина | [#13](https://github.com/PolinaTur/Hometask) | 8 | 9 | 
-| Цивако Дарья| [#14](https://github.com/D-Tsivako) | 8 | 10 |
-| Ярук Роман| [#15](https://github.com/Jarelino/Homeworks) | 8 | 9 | 8 
+| Антон Антон | [#1](https://github.com/anton2000anton) | 0 | 0 | 0
+| Галожина Юлия | [#2](https://github.com/GalozhinaYuliya) | 8 | 7 | does not work
+| Казаков Ярослав | [#3](https://github.com/EvanderLatine?tab=repositories) | 8 | 8 | works!!!
+| Колесников Даниил | [#4](https://github.com/DaniilKolesnikov/Daniil_Kolesnikov) | 0 | 0 | 0
+| Колодич Антон | [#5](https://github.com/AntonyKor/MMFInf) | 8 | 9- | Exception thrown 
+| Кузьмич Алексей | [#6](https://github.com/kuzmichalexey/C-.-1-course-1-semestr) | 0 | 0 | not that task
+| Литвинова Анастасия | [#7](https://github.com/AnastasiyaLitvinova/Cpp-homework-1-sem) | 8 | ? | does not work
+| Мишкин Даниил | [#8](https://github.com/DaniilMishkin) | 8 | 9- | * works, but by symbols :( 
+| Нагорная Даная | [#9](https://github.com/NDanaya) | 8 | 9- | * works, but by symbols :( 
+| Полойко Борис | [#10](https://github.com/BorisPoloyko) | 8 | 10 | Exception thrown 
+| Пугач Евгений | [#11](https://github.com/EvgeniyPugach) | 6- | 7- | ?
+| Родионова Александра | [#12](https://github.com/sasha-rod/Homework_2_semester) | 8 | 9 | Exception thrown 
+| Тур Полина | [#13](https://github.com/PolinaTur/Hometask.-2-term) | 8 | 9 | not encoded ?
+| Цивако Дарья| [#14](https://github.com/D-Tsivako) | 8 | 10 | * works, but by symbols :(
+| Ярук Роман| [#15](https://github.com/Jarelino/Homeworks) | 8 | 9 | * works, but by symbols :( 
 
 ## Лабораторная работа 1. Указатели и массивы. Индексация с помощью указателей. Передача массивов в функции. Динамические массивы.
 
