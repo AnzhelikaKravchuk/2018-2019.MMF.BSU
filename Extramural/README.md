@@ -1,5 +1,14 @@
 # 2018-2019.MMF.BSU.Extramural
 
+## Tutorials
+
+- [Полное руководство по языку программирования С# 7.0 и платформе .NET 4.7](https://metanit.com/sharp/tutorial/)
+- [Руководство по ASP.NET MVC](https://metanit.com/sharp/mvc5/)
+- [C# Tutorials](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+- [C# Tutorial](https://www.tutorialspoint.com/csharp/)
+- [C# Tutorials](https://www.tutorialsteacher.com/csharp/csharp-tutorials)
+- [ASP.NET MVC Tutorials](https://www.tutorialsteacher.com/mvc/asp.net-mvc-tutorials)
+
 [C# Online Compiler | .NET Fiddle](https://dotnetfiddle.net/)
 
 ### Tasks
