@@ -17,6 +17,15 @@
 
 ## Tasks
 
+0. Write a C# Sharp program to swap two numbers.
+   > *Test Data*:     
+   > Input the First Number : 5
+   > Input the Second Number : 6
+   > *Expected Output*  
+   > After Swapping :
+   > First Number : 6
+   > Second Number : 5 
+   
 1. Write a C# program to print a face. Expected Output:
 
          +"""""+ 
@@ -64,3 +73,8 @@
    > *Expected Output*  
    > Result string: The Quick Brown Fox Jumps Over The Lazy Dog.
    
+9. Write a C# program to find the first N prime numbers. 
+   > *Test Data*:     
+   > Input a number: 10  
+   > *Expected Output*  
+   > First 5 prime numbers: 2 3 5 7	11 13 17	19 23 29
