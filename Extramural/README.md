@@ -35,7 +35,7 @@
    > *Expected Output*   
    > The distance between those points is: 1480.0848451069087 km  
 
-5. Write a C# program to reverse a string.  
+5. Write a C# program to reverse a string (use class String, use ckass StringBuilder).   
    > *Test Data*:     
    > Input a string: The quick brown fox   
    > *Expected Output*  
