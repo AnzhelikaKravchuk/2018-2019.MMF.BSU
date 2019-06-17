@@ -18,7 +18,9 @@
 ## Tasks
 
 0. Write a C# Sharp program to swap two numbers.
+
    ![](https://github.com/AnzhelikaKravchuk/2018-2019.MMF.BSU/blob/master/Extramural/Pictures/3.png)
+   
    > *Test Data*:       
    > Input the First Number : 5   
    > Input the Second Number : 6   
