@@ -34,3 +34,9 @@
    > Input the longitude of coordinate 2: 25.5     
    > *Expected Output*   
    > The distance between those points is: 1480.0848451069087 km  
+
+5. Write a C# program to reverse a string.  
+   > *Test Data*:     
+   > Input a string: The quick brown fox   
+   > *Expected Output*  
+   > Reverse string: xof nworb kciuq ehT  
