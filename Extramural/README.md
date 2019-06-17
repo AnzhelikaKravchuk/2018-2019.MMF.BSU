@@ -17,14 +17,13 @@
 
 ## Tasks
 
-# TODO
-
 - Установить Visual Studio Community
 - Создать аккаунт в GitHub
 - Создать приватный репозиторий в GitHub с названием **Extramural.Summer2019.LastName** (LastName - фамилия студента). Добавить в коллабораторы **AnzhelikaKravchuk**
 - Выполнить предложенные ниже задания
 - Поместить выполненные задания в репозиторий **Extramural.Summer2019.LastName**
 
+##
 0. Write a C# Sharp program to swap two numbers.
 
    ![](https://github.com/AnzhelikaKravchuk/2018-2019.MMF.BSU/blob/master/Extramural/Pictures/3.png)
