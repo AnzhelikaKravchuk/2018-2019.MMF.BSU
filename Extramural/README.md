@@ -17,3 +17,5 @@
 2. Write a C# program to convert a decimal number to binary number. 
 
    ![](https://github.com/AnzhelikaKravchuk/2018-2019.MMF.BSU/blob/master/Extramural/1.png)
+
+3. Write a C# program to convert a hexadecimal to a decimal number.
