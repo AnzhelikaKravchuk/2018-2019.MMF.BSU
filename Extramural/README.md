@@ -45,4 +45,8 @@
 7. Write a C# program to display the system time. 
    > *Sample Output*: Current Date time: 6/18/2019
 
-5. Write a C# program to reverse a string (use class String, use ckass StringBuilder).   
+5. Write a C# program to capitalize the first letter of each word in a sentence. 
+   > *Test Data*:     
+   > Input a string: the quick brown fox jumps over the lazy dog.  
+   > *Expected Output*  
+   > Result string: The Quick Brown Fox Jumps Over The Lazy Dog.
