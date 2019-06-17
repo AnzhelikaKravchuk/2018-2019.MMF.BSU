@@ -1,5 +1,6 @@
 # 2018-2019.MMF.BSU.Extramural
 
+
 ## Tutorials
 
 - [Полное руководство по языку программирования С# 7.0 и платформе .NET 4.7](https://metanit.com/sharp/tutorial/)
@@ -9,9 +10,12 @@
 - [C# Tutorials](https://www.tutorialsteacher.com/csharp/csharp-tutorials)
 - [ASP.NET MVC Tutorials](https://www.tutorialsteacher.com/mvc/asp.net-mvc-tutorials)
 
+
+## Online Compliler
 [C# Online Compiler | .NET Fiddle](https://dotnetfiddle.net/)
 
-### Tasks
+
+## Tasks
 
 1. Write a C# program to print a face. Expected Output:
 
