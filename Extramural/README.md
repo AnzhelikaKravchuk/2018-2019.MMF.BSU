@@ -11,9 +11,7 @@
          |  ^  |                                                 
          | '-' |   
          +-----+
-        
-       
-      
+                
 2. Write a C# program to convert a decimal number to binary number. 
 
    ![](https://github.com/AnzhelikaKravchuk/2018-2019.MMF.BSU/blob/master/Extramural/Pictures/1.png)
@@ -42,4 +40,9 @@
    > Reverse string: xof nworb kciuq ehT  
    
 6. Write a C# program to display the system time. 
-   > *Sample Output*: Current Date time: Fri Jun 16 14:17:40 IST 2017 
+   > *Sample Output*: Current Date time: Monday, June 18, 2019
+
+7. Write a C# program to display the system time. 
+   > *Sample Output*: Current Date time: 6/18/2019
+
+5. Write a C# program to reverse a string (use class String, use ckass StringBuilder).   
