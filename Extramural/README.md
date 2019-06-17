@@ -6,11 +6,12 @@
 
 1. Write a C# program to print a face. Expected Output:
 
-       +"""""+ 
+        +"""""+ 
        (| o o |)                                             
         |  ^  |                                                 
         | '-' |                                                 
   	 +-----+
+        
        
       
 2. 
