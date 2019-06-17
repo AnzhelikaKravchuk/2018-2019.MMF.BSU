@@ -40,3 +40,6 @@
    > Input a string: The quick brown fox   
    > *Expected Output*  
    > Reverse string: xof nworb kciuq ehT  
+   
+6. Write a C# program to display the system time. 
+   > *Sample Output*: Current Date time: Fri Jun 16 14:17:40 IST 2017 
