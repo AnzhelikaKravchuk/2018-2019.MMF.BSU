@@ -14,4 +14,5 @@
         
        
       
-2. 
+2. Write a C# program to convert a decimal number to binary number. 
+   ![]()
